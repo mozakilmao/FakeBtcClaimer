@@ -1,2 +1,0 @@
-py BtcClaimer.py
-PAUSE
