@@ -1,2 +1,2 @@
-py BtcClaimer
+py BtcClaimer.py
 PAUSE
